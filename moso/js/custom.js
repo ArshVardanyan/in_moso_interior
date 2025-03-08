@@ -178,7 +178,7 @@ function drawMaterials(arg){
 
 console.log(window.location)
 
-if(window.location.pathname == "/shop-listing.html"){
+if(window.location.pathname.match("shop-listing.html")){
 
   getMaterial("data/data.json");
 }
