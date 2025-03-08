@@ -1,0 +1,192 @@
+{
+    "page_1": [
+        {
+            "id": 1,
+            "keyName": "Bathroom",
+            "image": "minimal-bathroom-interior-design-with-wooden-furniture.jpg",
+            "price": "8200",
+            "category": "Bathroom",
+            "condition": "excellent",
+            "type": "single"
+        },
+        {
+            "id": 2,
+            "keyName": "Dining",
+            "image": "mock-up-poster-modern-dining-room-interior-design-with-white-empty-wall.jpg",
+            "price": "4800",
+            "category": "Dining",
+            "condition": "good",
+            "type": "family"
+        },
+        {
+            "id": 3,
+            "keyName": "Hallway",
+            "image": "chelaxy-designs-71Q2hFOlWok-unsplash.jpg",
+            "price": "3200",
+            "category": "Hallway",
+            "condition": "very good",
+            "type": "single"
+        },
+        {
+            "id": 4,
+            "keyName": "Closet",
+            "image": "point3d-commercial-imaging-ltd-1dJfljc2tBk-unsplash.jpg",
+            "price": "5400",
+            "category": "Closet",
+            "condition": "excellent",
+            "type": "single"
+        }
+    ],
+    "page_2": [
+        {
+            "id": 5,
+            "keyName": "Living Room",
+            "image": "spacejoy-c0JoR_-2x3E-unsplash.jpg",
+            "price": "10500",
+            "category": "Living Room",
+            "condition": "excellent",
+            "type": "family"
+        },
+        {
+            "id": 6,
+            "keyName": "Bedroom",
+            "image": "chastity-cortijo-R-w5Q-4Mqm0-unsplash.jpg",
+            "price": "7200",
+            "category": "Bedroom",
+            "condition": "very good",
+            "type": "single"
+        },
+        {
+            "id": 7,
+            "keyName": "Laundry Room",
+            "image": "planetcare-5cpBWEl6y6c-unsplash.jpg",
+            "price": "6100",
+            "category": "Laundry Room",
+            "condition": "good",
+            "type": "single"
+        },
+        {
+            "id": 8,
+            "keyName": "Home Theater",
+            "image": "mahza-d-brata-kkCT7p57v-A-unsplash.jpg",
+            "price": "15800",
+            "category": "Home Theater",
+            "condition": "excellent",
+            "type": "family"
+        }
+    ],
+    "page_3": [
+        {
+            "id": 9,
+            "keyName": "Kitchen",
+            "image": "naomi-hebert-MP0bgaS_d1c-unsplash.jpg",
+            "price": "9500",
+            "category": "Kitchen",
+            "condition": "excellent",
+            "type": "family"
+        },
+        {
+            "id": 10,
+            "keyName": "Bathroom",
+            "image": "minimal-bathroom-interior-design-with-wooden-furniture.jpg",
+            "price": "8200",
+            "category": "Bathroom",
+            "condition": "excellent",
+            "type": "single"
+        },
+        {
+            "id": 11,
+            "keyName": "Dining",
+            "image": "mock-up-poster-modern-dining-room-interior-design-with-white-empty-wall.jpg",
+            "price": "4800",
+            "category": "Dining",
+            "condition": "good",
+            "type": "family"
+        },
+        {
+            "id": 12,
+            "keyName": "Hallway",
+            "image": "chelaxy-designs-71Q2hFOlWok-unsplash.jpg",
+            "price": "3200",
+            "category": "Hallway",
+            "condition": "very good",
+            "type": "single"
+        }
+    ],
+    "page_4": [
+        {
+            "id": 13,
+            "keyName": "Closet",
+            "image": "point3d-commercial-imaging-ltd-1dJfljc2tBk-unsplash.jpg",
+            "price": "5400",
+            "category": "Closet",
+            "condition": "excellent",
+            "type": "single"
+        },
+        {
+            "id": 14,
+            "keyName": "Living Room",
+            "image": "spacejoy-c0JoR_-2x3E-unsplash.jpg",
+            "price": "10500",
+            "category": "Living Room",
+            "condition": "excellent",
+            "type": "family"
+        },
+        {
+            "id": 15,
+            "keyName": "Bedroom",
+            "image": "chastity-cortijo-R-w5Q-4Mqm0-unsplash.jpg",
+            "price": "7200",
+            "category": "Bedroom",
+            "condition": "very good",
+            "type": "single"
+        },
+        {
+            "id": 16,
+            "keyName": "Laundry Room",
+            "image": "planetcare-5cpBWEl6y6c-unsplash.jpg",
+            "price": "6100",
+            "category": "Laundry Room",
+            "condition": "good",
+            "type": "single"
+        }
+    ],
+    "page_5": [
+        {
+            "id": 17,
+            "keyName": "Home Theater",
+            "image": "mahza-d-brata-kkCT7p57v-A-unsplash.jpg",
+            "price": "15800",
+            "category": "Home Theater",
+            "condition": "excellent",
+            "type": "family"
+        },
+        {
+            "id": 18,
+            "keyName": "Kitchen",
+            "image": "naomi-hebert-MP0bgaS_d1c-unsplash.jpg",
+            "price": "9500",
+            "category": "Kitchen",
+            "condition": "excellent",
+            "type": "family"
+        },
+        {
+            "id": 19,
+            "keyName": "Bathroom",
+            "image": "minimal-bathroom-interior-design-with-wooden-furniture.jpg",
+            "price": "8200",
+            "category": "Bathroom",
+            "condition": "excellent",
+            "type": "single"
+        },
+        {
+            "id": 20,
+            "keyName": "Dining",
+            "image": "mock-up-poster-modern-dining-room-interior-design-with-white-empty-wall.jpg",
+            "price": "4800",
+            "category": "Dining",
+            "condition": "good",
+            "type": "family"
+        }
+    ]
+}
