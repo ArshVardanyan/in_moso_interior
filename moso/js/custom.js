@@ -137,7 +137,7 @@ function drawPagination(arg) {
 
 
 function drawMaterials(arg){
-  const drawingPage = window.location.search.substring(1);
+  const drawingPage = window.location.search.substring(1) || "page_1";
   const drawArea = document.getElementById("area");
   let htmlX= "";
   arg[drawingPage].forEach(thing => {
@@ -176,7 +176,7 @@ function drawMaterials(arg){
   drawArea.innerHTML += htmlX;
 }
 
-console.log(window.location)
+console.log(window.location.pathname.match("shop-listing.html") != null)
 
 if(window.location.pathname.match("shop-listing.html") != null){
 
